@@ -3,6 +3,8 @@
 Pure Javascript implementation of ansi-color plugin for Jenkins.
 Great replacement of class ansi-color plugin for jenkins with no server usage.
 
+Using great JS Ansi color library: http://github.com/drudru/ansi_up
+
 ## Usage
 
 1. Copy js folder to Jenkins theme location on filesystem.
